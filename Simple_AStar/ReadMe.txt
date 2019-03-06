@@ -1,0 +1,2 @@
+A* algorithm to plan the discrete motion of a simple car. For simplicity, we assumed the state space is 3 dimensional
+and is given by an x position, a y positon and a theta orientation. A* implementation with different costs were tested. 
